@@ -10,7 +10,7 @@
 - Antes de iniciar a prova, faça um fork do projeto
 
 # 2º Passo - Crie uma nova Branch
-- Crie uma branch com o nome de cada questão. Ex: questão-01
+- Crie uma branch com o nome de cada questão. Ex: **desafio-01** outra branch com o nome **desafio-02**
 - Nessa branch edite o arquivo, respondendo as questões
 
 # 3º Passo - Commit a Branch
