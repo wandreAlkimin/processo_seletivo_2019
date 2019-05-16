@@ -1,6 +1,6 @@
 # Processo Seletivo CNM
 
-> **Bem vindo** ao processo seletivo para Programador Junior
+> **Bem vindo** ao processo seletivo para Programador Junior.
 > **Conheça a CNM**
 > A Confederação Nacional de Municípios (CNM) é uma organização independente, apartidária e sem fins lucrativos, fundada em 8 de fevereiro >de 1980.
 >
@@ -8,3 +8,13 @@
 
 # 1º Passo - Fork
 - Antes de iniciar a prova, faça um fork do projeto
+
+# 2º Passo - Crie uma nova Branch
+- Crie uma branch com o nome de cada questão. Ex: questão-01
+- Nessa branch edite o arquivo, respondendo as questões
+
+# 3º Passo - Commit a Branch
+- Apos responder a questão, commit
+
+# 4º Passo - Pull request
+- Realize o Pull Request apos realizar as alterações
