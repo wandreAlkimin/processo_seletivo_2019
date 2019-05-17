@@ -11,10 +11,10 @@
 
 # 2º Passo - Crie uma nova Branch
 - Crie uma branch com o nome de cada questão. Ex: **desafio-01** outra branch com o nome **desafio-02**
-- Nessa branch edite o arquivo, respondendo as questões
+- Nessa branch edite o arquivo, respondendo as questões.
 
 # 3º Passo - Commit a Branch
-- Apos responder a questão, commit
+- Apos responder a questão, commit.
 
 # 4º Passo - Pull request
-- Realize o Pull Request apos realizar as alterações
+- Realize o Pull Request apos realizar as alterações.
