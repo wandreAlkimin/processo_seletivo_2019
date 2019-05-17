@@ -1,5 +1,5 @@
 
-<h1>Desafio 2</h1>
+<h1>**Desafio 2**</h1>
 
 ><h3>**Instruções**</h3>
 > <p>- Observe que existe uma estrutura simples de pasta, onde se encrontra um arquivo index.html com uma lista de noticias estaticas.</p>
