@@ -8,6 +8,7 @@
 
 # 1º Passo - Fork
 - Antes de iniciar a prova, faça um fork do projeto
+- Não esqueça que você pode clonar o projeto ou anexar os arquivos pelo proprio github
 
 # 2º Passo - Crie uma nova Branch
 - Crie uma branch com o nome de cada questão. Ex: **desafio-01** outra branch com o nome **desafio-02**
