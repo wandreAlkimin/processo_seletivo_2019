@@ -1,10 +1,3 @@
-**1 - Recrie a condição if e else abaixo, utilizando um modelo mais simplificado, conhecido por muitos como if inline ou operação ternária:**
-
-// <?php 
-// if ($idade>=18){
-//	echo " Você é maior de idade"
-//}
-//else{
-//	echo " Você é menor de idade "
-//}
-//?>
+Trabalhando com bootstrap, monte uma estrutura html e com os components. 
+https://getbootstrap.com/docs/4.3/components
+Faça como na imagem abaixo.
