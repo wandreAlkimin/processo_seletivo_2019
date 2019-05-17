@@ -1,10 +1,7 @@
-**1 - Recrie a condição if e else abaixo, utilizando um modelo mais simplificado, conhecido por muitos como if inline ou operação ternária:**
+**Web service de noticias**
 
-// <?php 
-// if ($idade>=18){
-//	echo " Você é maior de idade"
-//}
-//else{
-//	echo " Você é menor de idade "
-//}
-//?>
+>http://www.marcha.cnm.org.br/webservice/noticias 
+>para a paginação é necessário colocar um parametro get. Exemplo http://www.marcha.cnm.org.br/webservice/noticias?page=2
+>Se quiser controlar a quantidade de registros por pagina basta colocar outro parâmetro apos noticias.
+>Exemplo: http://www.marcha.cnm.org.br/webservice/noticias/15
+>- Por padrão a quantidade de registro por pagina será 15
